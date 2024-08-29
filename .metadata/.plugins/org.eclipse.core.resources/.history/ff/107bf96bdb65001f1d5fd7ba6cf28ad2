@@ -1,0 +1,11 @@
+package com.pattern.fact;
+
+public class Rectangle implements Shape {
+
+	@Override
+	public void shape() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
